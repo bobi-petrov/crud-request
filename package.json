@@ -47,7 +47,7 @@
     "build": "npx tsc -b"
   },
   "dependencies": {
-    "@nestjsx/util": "bobi-petrov/util",
+    "@nestjsx/util": "bobi-petrov/crud-util",
     "qs": "^6.8.0"
   }
 }
